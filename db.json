@@ -1,0 +1,435 @@
+{
+  "getNewsList": [
+    {
+      "title": "数据统计",
+      "url": " "
+    },
+    {
+      "title": "数据预测",
+      "url": ""
+    },
+    {
+      "title": "广告发布",
+      "url": ""
+    },
+    {
+      "title": "数据分析",
+      "url": ""
+    }
+  ],
+  "getLogin": {
+    "username": "陈小虎",
+    "password": 123456
+  },
+  "getPrice": {
+    "init":100,
+    "cal":999
+  },
+  "getOrderList":[
+    {
+      "orderId": "0000000001",
+      "product": "奶粉",
+      "version":"1.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"999.00"
+    },
+    {
+      "orderId": "0000000002",
+      "product": "iphone",
+      "version":"7plus",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"6799.00"
+    },
+    {
+      "orderId": "0000000003",
+      "product": "电视",
+      "version":"4.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"3999.00"
+    },
+    {
+      "orderId": "0000000004",
+      "product": "电脑",
+      "version":"i7",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"5999.00"
+    },
+    {
+      "orderId": "0000000005",
+      "product": "Java高级",
+      "version":"第三版",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"69.00"
+    },
+    {
+      "orderId": "0000000006",
+      "product": "奶粉",
+      "version":"1.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"999.00"
+    },
+    {
+      "orderId": "0000000007",
+      "product": "iphone",
+      "version":"7plus",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"6799.00"
+    },
+    {
+      "orderId": "0000000008",
+      "product": "电视",
+      "version":"4.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"3999.00"
+    },
+    {
+      "orderId": "0000000009",
+      "product": "电脑",
+      "version":"i7",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"5999.00"
+    },
+    {
+      "orderId": "00000000010",
+      "product": "奶粉",
+      "version":"1.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"999.00"
+    },
+    {
+      "orderId": "00000000011",
+      "product": "iphone",
+      "version":"7plus",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"6799.00"
+    },
+    {
+      "orderId": "00000000012",
+      "product": "电视",
+      "version":"4.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"3999.00"
+    },
+    {
+      "orderId": "00000000013",
+      "product": "电脑",
+      "version":"i7",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"5999.00"
+    },
+    {
+      "orderId": "00000000014",
+      "product": "奶粉",
+      "version":"1.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"999.00"
+    },
+    {
+      "orderId": "00000000015",
+      "product": "iphone",
+      "version":"7plus",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"6799.00"
+    },
+    {
+      "orderId": "00000000016",
+      "product": "电视",
+      "version":"4.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"3999.00"
+    },
+    {
+      "orderId": "00000000017",
+      "product": "电脑",
+      "version":"i7",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"5999.00"
+    },
+    {
+      "orderId": "00000000018",
+      "product": "奶粉",
+      "version":"1.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"999.00"
+    },
+    {
+      "orderId": "00000000019",
+      "product": "iphone",
+      "version":"7plus",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"6799.00"
+    },
+    {
+      "orderId": "00000000020",
+      "product": "电视",
+      "version":"4.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"3999.00"
+    },
+    {
+      "orderId": "00000000021",
+      "product": "电脑",
+      "version":"i7",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"5999.00"
+    },
+    {
+      "orderId": "00000000022",
+      "product": "奶粉",
+      "version":"1.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"999.00"
+    },
+    {
+      "orderId": "00000000023",
+      "product": "iphone",
+      "version":"7plus",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"6799.00"
+    },
+    {
+      "orderId": "00000000024",
+      "product": "电视",
+      "version":"4.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"3999.00"
+    },
+    {
+      "orderId": "00000000025",
+      "product": "电脑",
+      "version":"i7",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"5999.00"
+    },
+    {
+      "orderId": "00000000026",
+      "product": "奶粉",
+      "version":"1.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"999.00"
+    },
+    {
+      "orderId": "00000000027",
+      "product": "iphone",
+      "version":"7plus",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"6799.00"
+    },
+    {
+      "orderId": "00000000028",
+      "product": "电视",
+      "version":"4.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"3999.00"
+    },
+    {
+      "orderId": "00000000029",
+      "product": "电脑",
+      "version":"i7",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"5999.00"
+    },
+    {
+      "orderId": "00000000030",
+      "product": "奶粉",
+      "version":"1.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"999.00"
+    },
+    {
+      "orderId": "00000000031",
+      "product": "iphone",
+      "version":"7plus",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"6799.00"
+    },
+    {
+      "orderId": "00000000032",
+      "product": "电视",
+      "version":"4.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"3999.00"
+    },
+    {
+      "orderId": "00000000033",
+      "product": "电脑",
+      "version":"i7",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"5999.00"
+    },
+    {
+      "orderId": "00000000034",
+      "product": "奶粉",
+      "version":"1.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"999.00"
+    },
+    {
+      "orderId": "00000000035",
+      "product": "iphone",
+      "version":"7plus",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"6799.00"
+    },
+    {
+      "orderId": "00000000036",
+      "product": "电视",
+      "version":"4.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"3999.00"
+    },
+    {
+      "orderId": "00000000037",
+      "product": "电脑",
+      "version":"i7",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"5999.00"
+    },
+    {
+      "orderId": "00000000038",
+      "product": "奶粉",
+      "version":"1.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"999.00"
+    },
+    {
+      "orderId": "00000000039",
+      "product": "iphone",
+      "version":"7plus",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"6799.00"
+    },
+    {
+      "orderId": "00000000040",
+      "product": "电视",
+      "version":"4.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"3999.00"
+    },
+    {
+      "orderId": "00000000041",
+      "product": "电脑",
+      "version":"i7",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"5999.00"
+    },
+    {
+      "orderId": "00000000042",
+      "product": "奶粉",
+      "version":"1.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"999.00"
+    },
+    {
+      "orderId": "00000000043",
+      "product": "iphone",
+      "version":"7plus",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"6799.00"
+    },
+    {
+      "orderId": "00000000044",
+      "product": "电视",
+      "version":"4.0",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"3",
+      "amount":"3999.00"
+    },
+    {
+      "orderId": "00000000045",
+      "product": "电脑",
+      "version":"i7",
+      "period":"2018-12-31",
+      "date":"2017-8-15",
+      "number":"1",
+      "amount":"5999.00"
+    }
+  ]
+}

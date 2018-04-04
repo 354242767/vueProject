@@ -10,19 +10,23 @@
 $ npm install --global vue-cli
 $ vue -V
 > 2.9.3
+
 # 创建一个基于 webpack 模板的新项目
 $ vue init webpack my-project
 > Project name(my-project) Y
 > Project description(A Vue.js project) Y
-> Author TIGER
+> Author tiger
 > Install vue-router Y
-> Use ESlint.... Y
+> Use ESlint... Y
 > Set up unit test N
 > Setup e2e tests... N
 > Should we... 
   Yes,use NPM Y
+
 # installing project dependencies ...
+
 # Project initialization finished！
+
 $ cd my-project
 $ npm run dev
 

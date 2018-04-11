@@ -60,7 +60,7 @@ localhost：8080
 3. 表格分页
 4. 表格排序
 
-###项目截图orderList
+### 项目截图
 **首页**
 
 ![index.html](/src/assets/images/vue-01.jpg)
@@ -71,8 +71,12 @@ localhost：8080
 
 ![index.html](/src/assets/images/vue-04.jpg)
 
+**详情页**
+
 ![detail.html](/src/assets/images/vue-05.png)
 
 ![detail.html](/src/assets/images/vue-06.png)
+
+**订单页**
 
 ![orderList.html](/src/assets/images/vue-07.png)

@@ -63,16 +63,16 @@ localhost：8080
 ###项目截图orderList
 **首页**
 
-![index.html](/vueProject/src/assets/images/vue-01.jpg)
+![index.html](/src/assets/images/vue-01.jpg)
 
-![index.html](/vueProject/src/assets/images/vue-02.png)
+![index.html](/src/assets/images/vue-02.png)
 
-![index.html](/vueProject/src/assets/images/vue-03.png)
+![index.html](/src/assets/images/vue-03.png)
 
-![index.html](/vueProject/src/assets/images/vue-04.jpg)
+![index.html](/src/assets/images/vue-04.jpg)
 
-![index.html](/vueProject/src/assets/images/vue-05.png)
+![detail.html](/src/assets/images/vue-05.png)
 
-![index.html](/vueProject/src/assets/images/vue-06.png)
+![detail.html](/src/assets/images/vue-06.png)
 
-![index.html](/vueProject/src/assets/images/vue-07.png)
+![orderList.html](/src/assets/images/vue-07.png)
